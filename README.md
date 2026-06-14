@@ -137,6 +137,3 @@ Forecasts are generated using machine learning and historical data. Prediction a
 
 ---
 
-## 📄 License
-
-Licensed under the MIT License.
